@@ -1,7 +1,7 @@
 # Transforming Figma Designs into Clean, Valid, and Responsive HTML/CS
 * HTML
 * CSS
-## [Figma design files into HTML code - Demo](https://kp-responsive-layouts-challenge.netlify.app/)
+## [Figma design files into HTML code - Demo](https://figma-to-html-css-laslesvpn.netlify.app/)
 ## [Figma design ](https://www.figma.com/file/J7IbKtPFzinLLqRnzJTF7g/FREEBIES-Landingpage-LaslesVPN-(Community)?type=design&node-id=14%3A3&mode=design&t=nzpcXGiXJNbyKM2m-1)
 ##
 
